@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Neo%20Mavhunga%20👋&fontSize=40&fontAlignY=35&animation=fadeIn)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Neo%20Mavhunga%20👋&fontSize=45&fontAlignY=40&animation=fadeIn" width="100%" />
+</p>
+
 
 <div align="center">
 
@@ -97,5 +101,6 @@ Currently pursuing a **BSc in Information Technology** while expanding my skills
 <a href="https://github.com/NeoTreasure"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
