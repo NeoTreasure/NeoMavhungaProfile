@@ -1,15 +1,26 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Neo%20Mavhunga%20👋&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-<p align="center">
-  <img src="YOUR_PROFILE_PICTURE_LINK" width="160" style="border-radius: 50%;" />
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td width="180" align="center">
+
+<img src="https://github.com/NeoTreasure/NeoMavhungaProfile/raw/main/YOUR_PROFILE_PICTURE_LINK.jpg" width="160" style="border-radius: 50%;" />
+
+</td>
+<td>
 
 ## 👩🏾‍💻 About Me  
 I am a passionate **Tier 2 IT Support Specialist** with over **6 years of experience** in technical support, troubleshooting, and customer service.  
 I specialize in **FTTH & LTE support, router configuration, network diagnostics, and escalation management**.  
 Currently pursuing a **BSc in Information Technology** while expanding my skills in **programming, data science, and web development**.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
